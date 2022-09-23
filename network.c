@@ -57,7 +57,7 @@ void delete_array_list (array_list* a) {
     free(a);
 }
 
-// ******* END ARRAY LIST CODE *********
+// ******* NEURAL NET CODE *********
 
 static float sigmoid (float x) {
     return pow(1 + exp(-x), -1);
