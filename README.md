@@ -1,6 +1,5 @@
 # simple-ml-model
-Simple machine learning model built from a tutorial by Victor Zhou (LINK TO TUTORIAL: https://victorzhou.com/blog/intro-to-neural-networks/)
-Tutorial written in Python, I implemented it in C.
+Simple machine learning model built from a [tutorial by Victor Zhou](https://victorzhou.com/blog/intro-to-neural-networks/) written in Python, I implemented it in C.
 
 Implements the following functions:
 
